@@ -6,6 +6,7 @@ app = [ {
     'jobs': ['AP Govm', 'Webknot'],
 },
 {
-    'name':'Harsh'
+    'name':'Harsh',
+    'age': 21,
 }
 ]
