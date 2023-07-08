@@ -9,5 +9,6 @@ app = [ {
     'name':'Harsh',
     'age': 22,
     'area': 'Raipur',
+    'schools': ['NIT'],
 }
 ]
