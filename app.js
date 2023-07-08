@@ -3,6 +3,7 @@ app = [ {
     'age': 22,
     'area': ['Blr', 'Hyd'],
     'school': ['NPS', 'DPS', 'VIT'],
+    'hobbies': ['Tennis'],
     'jobs': ['AP Govm', 'Webknot'],
 },
 {
